@@ -1,0 +1,9 @@
+<Project>
+    <PropertyGroup>
+        <Title>Structor</Title>
+        <Authors>Muhammad Mustafa</Authors>
+        <Description>Standardised API Response</Description>
+        <RepositoryUrl>https://github.com/iMuhammadMustafa/Structor.Net</RepositoryUrl>
+        <PackageProjectUrl>https://MuhammadMustafa.dev</PackageProjectUrl>
+    </PropertyGroup>
+</Project>
